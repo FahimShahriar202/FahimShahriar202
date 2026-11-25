@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 - 🔭 I'm currently working on machine learning projects and REST APIs using Node.js, Express.js and PostgreSQL.<br>- 🌱 I'm currently learning backend development, deep learning with TensorFlow/Keras, attention mechanisms and MLOps.<br>- 👯 I'm looking to collaborate on open-source AI/ML and backend development projects.<br>- 🤝 I'm looking for help with model deployment, FastAPI, Docker and scalable backend architecture.<br>- 💬 Ask me about machine learning, imbalanced data, U-Net segmentation and REST APIs.<br>- ⚡ Fun fact: my first fraud model hit 99.8% accuracy by always predicting "not fraud". Then I learned about recall.
 
 
