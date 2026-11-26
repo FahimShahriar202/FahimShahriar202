@@ -96,7 +96,7 @@ const fahim = {
 </p>
 
 <!-- ========================= FOOTER ========================= -->
-<p align="center"><i>"Talk is cheap. Show me the code." - Linus Torvalds</i></p>
+<p align="center"><i>"I make memes when I am free" - Fahim Shahriar Ahmed</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" alt="Footer" />
